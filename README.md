@@ -34,7 +34,9 @@ But knowing the stuff will help you become better! :muscle:*
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- [technologywhat is](https://github.com/mj5219054/every-programmer-should-know/blob/master/psychology.md)
+- [technologywhat is Chinese](https://github.com/mj5219054/every-programmer-should-know/blob/master/psychology.md)
+
+- [technologywhat is English](https://github.com/mj5219054/every-programmer-should-know/blob/master/ychology.md)
 
 
 ### Data Structures
